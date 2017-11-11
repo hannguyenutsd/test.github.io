@@ -313,6 +313,17 @@ ul li {
 	text-align: center;
 	z-index: 10;
 }
+.carousel-caption-left {
+	bottom: 40%;
+	color: #fff;
+	left: 15%;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	position: absolute;
+	right: 15%;
+	/* text-align: center; */
+	z-index: 10;
+}
 .carousel-caption h3 {
 	font-family: "Open Sans", sans-serif;
 	color: #2d3033;
@@ -343,6 +354,14 @@ ul li {
 /* ------------------------------------------------------------------------------
 	 Services
 -------------------------------------------------------------------------------*/
+.profile-image {
+	width: 400px;
+}
+
+.center {
+	text-align: center;
+}
+
 .services {
 	width: 94%;
 	margin: auto;
